@@ -9,7 +9,7 @@
 go.work
 
 # React 忽略项
-node_modules/
+node_modules
 /react-app/build
 /react-app/.env.local
 /react-app/.env.development.local
